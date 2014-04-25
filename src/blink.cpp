@@ -34,7 +34,7 @@ void setup()
 
 void loop()
 {
- Serial.println("Hello world");  // Print "Hello World" to the Serial Monitor
+ Serial.println("Hello chase");  // Print "Hello World" to the Serial Monitor
  Serial1.println("Hello!");  // Print "Hello!" over hardware UART
 
  digitalWrite(RXLED, LOW);   // set the LED on
